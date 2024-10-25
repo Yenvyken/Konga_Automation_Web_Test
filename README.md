@@ -1,8 +1,7 @@
-# KongaWebTest
-
 # Konga Order Flow Automation Project
+
 ## Overview
-This project automates the order flow for an e-commerce platform, Konga, from login to checkout. It covers key scenarios like logging in, adding products to the cart, and handling payment failures.
+This project automates the order flow of an e-commerce platform, Konga, from login to checkout. It covers key scenarios like logging in, adding products to the cart, and handling payment failures.
 
 ## Project Objectives
 - Automate end-to-end ordering flow
